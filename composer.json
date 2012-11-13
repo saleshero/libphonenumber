@@ -8,6 +8,6 @@
         "source": "https://github.com/saleshero/libphonenumber"
     },
     "autoload": {
-        "classmap": ["PhoneNumberUtil"]
+        "classmap": ["PhoneNumberUtil.php"]
     }
 }
